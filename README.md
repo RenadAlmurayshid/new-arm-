@@ -1,5 +1,6 @@
 # new-arm-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 To operate the new arm you must do the following read until the end because there is a reference steps that is needed to do 
 
 1) You should go to the smart methods website and go to the library from this link : 
