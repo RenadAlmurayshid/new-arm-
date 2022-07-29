@@ -29,6 +29,18 @@ https://s-m.com.sa/smtc/sdb/library.php
 
 7) write git clone and then paste the link next to it 
 
+
+8) Launch you rviz 
+
+
+9) to the add option 
+
+
+10) find the robot stable 
+
+
+11) you will see the arm and you move it
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Create a workspace for catkin based on the type you have mine is melodic
 sudo apt-get install ros-melodic-catkin
